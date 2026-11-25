@@ -9,5 +9,6 @@ https://raw.githubusercontent.com/robb3n/dsh-plugins/main/index.json
 | 插件 | 用途 |
 |---|---|
 | [Chrome DevTools](https://github.com/robb3n/dsh-plugin-chrome-devtools) | 在 DSH 会话里查看与操作独立 Chrome 实例的页面。 |
+| [额度](https://github.com/robb3n/dsh-plugin-quota) | 在侧栏查看 DeepSeek 平台余额、月度用量与预算。 |
 
 每个版本在 `index.json` 中固定到插件仓的完整 Git 提交。刷新「发现」即可查看可用版本。

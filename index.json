@@ -27,6 +27,32 @@
           }
         }
       ]
+    },
+    {
+      "name": "dsh-quota",
+      "title": {
+        "en": "Quota",
+        "zh": "额度"
+      },
+      "description": {
+        "en": "Shows your DeepSeek account quota above the sidebar account row: this month's spend against a monthly budget, the balance, and how many days it lasts at the 7-day pace.",
+        "zh": "在侧栏账号行上方显示 DeepSeek 账号额度：本月已用对比月预算的进度、余额、照近 7 天的花法还够几天，点开看明细。"
+      },
+      "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj4KICA8ZGVmcz4KICAgIDxmaWx0ZXIgaWQ9ImxpZnQiIHg9Ii0zMCUiIHk9Ii0zMCUiIHdpZHRoPSIxNjAlIiBoZWlnaHQ9IjE3MCUiPgogICAgICA8ZmVEcm9wU2hhZG93IGR4PSIwIiBkeT0iMTIiIHN0ZERldmlhdGlvbj0iMTQiIGZsb29kLWNvbG9yPSIjNDYzMDEyIiBmbG9vZC1vcGFjaXR5PSIwLjM0Ii8+CiAgICA8L2ZpbHRlcj4KICA8L2RlZnM+CiAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMjU2IDI1Nikgc2NhbGUoMC44OCkgdHJhbnNsYXRlKC0yNTYgLTI1NikiPgogICAgPGNpcmNsZSBjeD0iMjU2IiBjeT0iMjUyIiByPSIxODQiIGZpbGw9IiNmZWY2ZWUiIGZpbHRlcj0idXJsKCNsaWZ0KSIvPgogICAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTI4IDEyNCkgc2NhbGUoMTYpIiBmaWxsPSJub25lIiBzdHJva2U9IiM3MDVhMGYiIHN0cm9rZS13aWR0aD0iMS4xNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj4KICAgICAgPHBhdGggZD0iTTEyLjUgNS41VjRhMS41IDEuNSAwIDAgMC0xLjUtMS41SDRBMS41IDEuNSAwIDAgMCAyLjUgNHY4QTEuNSAxLjUgMCAwIDAgNCAxMy41aDguNWExIDEgMCAwIDAgMS0xdi02YTEgMSAwIDAgMC0xLTFINGExLjUgMS41IDAgMCAxLTEuNS0xLjUiLz4KICAgICAgPGNpcmNsZSBjeD0iMTAuNiIgY3k9IjkuNSIgcj0iLjgiIGZpbGw9IiNkNGIzNWIiIHN0cm9rZT0ibm9uZSIvPgogICAgPC9nPgogICAgPHJlY3QgeD0iMTg2IiB5PSIzNTAiIHdpZHRoPSIxNDAiIGhlaWdodD0iMTYiIHJ4PSI4IiBmaWxsPSIjZDRiMzViIi8+CiAgICA8cmVjdCB4PSIxODYiIHk9IjM1MCIgd2lkdGg9Ijg4IiBoZWlnaHQ9IjE2IiByeD0iOCIgZmlsbD0iIzcwNWEwZiIvPgogIDwvZz4KPC9zdmc+Cg==",
+      "repository": {
+        "url": "https://github.com/robb3n/dsh-plugin-quota"
+      },
+      "versions": [
+        {
+          "version": "0.1.0",
+          "publishTimestamp": 1795624299,
+          "source": {
+            "type": "git",
+            "url": "https://github.com/robb3n/dsh-plugin-quota",
+            "commit": "d5fe3928f8b6355e9ac0fd10981e12112018c74e"
+          }
+        }
+      ]
     }
   ]
 }
