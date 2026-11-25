@@ -1,0 +1,32 @@
+{
+  "format": 1,
+  "title": {
+    "en": "DSH plugins by robb3n",
+    "zh": "robb3n 的 DSH 插件"
+  },
+  "plugins": [
+    {
+      "name": "dsh-plugin-chrome-devtools",
+      "title": "Chrome DevTools",
+      "description": {
+        "en": "Mounts chrome-devtools-mcp (stdio) so agents can drive and inspect a dedicated Chrome: tools appear as mcp__chrome-devtools__*.",
+        "zh": "挂 chrome-devtools-mcp（stdio），让 agent 驱动并检查一个专属的 Chrome：工具形如 mcp__chrome-devtools__*。"
+      },
+      "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj4KICA8ZGVmcz4KICAgIDxmaWx0ZXIgaWQ9ImxpZnQiIHg9Ii0zMCUiIHk9Ii0zMCUiIHdpZHRoPSIxNjAlIiBoZWlnaHQ9IjE3MCUiPgogICAgICA8ZmVEcm9wU2hhZG93IGR4PSIwIiBkeT0iMTIiIHN0ZERldmlhdGlvbj0iMTQiIGZsb29kLWNvbG9yPSIjNDYzMDEyIiBmbG9vZC1vcGFjaXR5PSIwLjM0Ii8+CiAgICA8L2ZpbHRlcj4KICA8L2RlZnM+CiAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMjU2IDI1Nikgc2NhbGUoMC44OCkgdHJhbnNsYXRlKC0yNTYgLTI1NikiPgogICAgPGNpcmNsZSBjeD0iMjU2IiBjeT0iMjUyIiByPSIxODQiIGZpbGw9IiNmZWY2ZWUiIGZpbHRlcj0idXJsKCNsaWZ0KSIvPgogICAgPHJlY3QgeD0iMTQ4IiB5PSIxNjQiIHdpZHRoPSIyMTYiIGhlaWdodD0iMTY4IiByeD0iMTgiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzcwNWEwZiIgc3Ryb2tlLXdpZHRoPSIxOCIvPgogICAgPHBhdGggZD0iTTE0OCAyMDYgSDM2NCIgc3Ryb2tlPSIjNzA1YTBmIiBzdHJva2Utd2lkdGg9IjE2Ii8+CiAgICA8Y2lyY2xlIGN4PSIxNzQiIGN5PSIxODUiIHI9IjciIGZpbGw9IiM3MDVhMGYiLz4KICAgIDxjaXJjbGUgY3g9IjE5NiIgY3k9IjE4NSIgcj0iNyIgZmlsbD0iIzcwNWEwZiIvPgogICAgPHBhdGggZD0iTTIzMiAyMzggTDIwNCAyNjYgTDIzMiAyOTQgTTI4MCAyMzggTDMwOCAyNjYgTDI4MCAyOTQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2Q0YjM1YiIgc3Ryb2tlLXdpZHRoPSIxNiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+CiAgPC9nPgo8L3N2Zz4K",
+      "repository": {
+        "url": "https://github.com/robb3n/dsh-plugin-chrome-devtools"
+      },
+      "versions": [
+        {
+          "version": "1.0.0",
+          "publishTimestamp": 1795581101,
+          "source": {
+            "type": "git",
+            "url": "https://github.com/robb3n/dsh-plugin-chrome-devtools",
+            "commit": "ff7471fd1f1fd267021899301a0ba111ea98cc03"
+          }
+        }
+      ]
+    }
+  ]
+}
